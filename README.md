@@ -1,10 +1,11 @@
-<h1 align="center">Oi 👋, Eu sou o Ed</h1>
-<h3 align="center">Um futuro Ciêntista de Dados</h3>
+<p align="center">
+  <img src="https://github.com/edjeffersoncpsta/edjeffersoncosta/raw/main/assets/header-github.gif" alt="Oi, eu sou a Ed">
+</p>
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, engenharia de dados**
 - 📫 Fale comigo em **edcostaoficial@gmail.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/edjefferson-costa-31a419200/](https://www.linkedin.com/in/edjefferson-costa-31a419200/)
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/edjefferson-costa/](https://www.linkedin.com/in/edjefferson-costa/)
 - ⚡ Curioosidade sobre mim **Apaixonado por novelas, café e calopsita tenho duas o Zé e a Cristal**
 
 <details>
@@ -22,7 +23,7 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edjefferson costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edjefferson costa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edjefferson-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edjefferson-costa" height="30" width="40" /></a>
 <a href="https://instagram.com/edcoosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edcoosta" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/edcoosta" target="blank"><img src="https://img.shields.io/twitter/follow/edcoosta?logo=twitter&style=for-the-badge" alt="edcoosta" /></a> </p>
