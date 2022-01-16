@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/edjeffersoncpsta/edjeffersoncosta/raw/main/assets/header-github.gif" alt="Oi, eu sou a Ed">
+  <img src="https://github.com/edjeffersoncosta/edjeffersoncosta/raw/main/assets/header-github.gif" alt="Oi, eu sou a Ed">
 </p>
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
